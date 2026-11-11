@@ -1,0 +1,11 @@
+3 algoritm
+#
+2 derevo
+#
+2 spisok
+1 kucha
+#
+#
+1 struktura
+#
+#
